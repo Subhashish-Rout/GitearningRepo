@@ -16,3 +16,7 @@ def sub_segments (string, n):
 string = "geeksforgeeksgfg"
 n = 4
 sub_segments (string, n)
+
+
+print("Learning how to use git ")
+print("Still learning the use of git")
